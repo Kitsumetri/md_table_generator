@@ -10,7 +10,9 @@ pip install git+https://github.com/username/markdown_table.git
 ```
 
 ## To build locally
+```bash
 pip install .
+````
 
 
 ## Usage
