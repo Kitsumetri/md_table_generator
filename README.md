@@ -88,7 +88,7 @@ table = MarkdownTable.from_dict(data=data)
 table.filter_rows(condition=lambda x: x[0] != 'C')
 ```
 
-### Export:
+### Export
 ```python
 from markdown_table import MarkdownTable
 table = MarkdownTable(<init_params>)
