@@ -77,7 +77,7 @@ table = MarkdownTable.from_dict(data=data)
 table.sort_rows(column_index=1, reverse=False)
 ```
 
-* Filter rows by callable condition
+* Filter rows by callable condition:
 ```python
 from markdown_table import MarkdownTable
 data = {
