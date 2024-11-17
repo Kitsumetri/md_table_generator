@@ -6,7 +6,7 @@ A Python library for generating Markdown tables easily.
 
 To install from GitHub:
 ```bash
-pip install git+https://github.com/username/markdown_table.git
+pip install git+https://github.com/Kitsumetri/md_table_generator.git
 ```
 
 ## To build locally
