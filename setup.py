@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="md_table_generator",
+    name="markdown_table",
     version="1.0.0",
     author="Kitsumetri",
     author_email="no_email@example.com",
